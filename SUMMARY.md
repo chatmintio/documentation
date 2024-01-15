@@ -11,6 +11,10 @@
 * [2. Share POCP](get-started/2.-share-pocp.md)
 * [3. Chat Securely!](get-started/3.-chat-securely.md)
 
+## Airdrop
+
+* [Securing your airdrops](airdrop/securing-your-airdrops.md)
+
 ## Transactions
 
 * [Buy Ethereum](transactions/buy-ethereum.md)

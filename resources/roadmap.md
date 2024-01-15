@@ -10,7 +10,6 @@
 * [Easy ETH top-up](https://feedback.chatmint.io/9)
 * [Identity Marketplace v.1.0. with Personal POCP](https://feedback.chatmint.io/11)
 * [Airdrop phase 1 : Snapshot on 19 December](https://feedback.chatmint.io/12)
-* [Airdrop phase 2 : \*hint make connections on Chatmint\*](https://feedback.chatmint.io/15)
 
 **Q2**
 

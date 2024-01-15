@@ -2,7 +2,7 @@
 
 **How do I top up my credits?**
 
-Head over to [app.chatmint.io](https://app.chatmint.io/credits) to explore the various bundles that we are providing. It is as low as $4.90/month!!
+Head over to [app.chatmint.io](https://app.chatmint.io/subscriptions) to explore the various bundles that we are providing. It is as low as $4.90/month!!
 
 **What Payment methods do you accept?**&#x20;
 
